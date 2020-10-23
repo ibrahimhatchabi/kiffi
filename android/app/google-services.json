@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "599318471858",
+    "firebase_url": "https://kifiserver.firebaseio.com",
+    "project_id": "kifiserver",
+    "storage_bucket": "kifiserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599318471858:android:a98e20e97add279f",
+        "android_client_info": {
+          "package_name": "com.kiffi.kiffi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599318471858-jb8r7sg1kto7419np3glgg4jdiebr8nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2VzgNLA9T0o1ngdtMit-VGQivbYjMbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599318471858:android:a3f0108060847cb9",
+        "android_client_info": {
+          "package_name": "sn.kifi.kifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599318471858-jb8r7sg1kto7419np3glgg4jdiebr8nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2VzgNLA9T0o1ngdtMit-VGQivbYjMbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
